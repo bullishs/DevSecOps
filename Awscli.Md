@@ -1,7 +1,5 @@
 # AWS CLI v2 Cheat Sheet
- 
-คำสั่งที่ใช้จริงในงาน operate + คำสั่งที่ช่วยให้เห็นภาพ service ตอนอ่านสอบ SAA-C03
- 
+
 ## สารบัญ
  
 - [Config & Identity](#config--identity)
